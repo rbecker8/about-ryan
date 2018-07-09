@@ -1,0 +1,17 @@
+body {
+	background-color: blue;
+}
+
+H1 {
+	font-family: sans-serif;
+	color: slategray;
+}
+.p2 {
+	font-family: "Times New Roman";
+	color: red;
+}
+
+.p1 {
+	font-family: "Arial Black";
+	color: red;
+}
